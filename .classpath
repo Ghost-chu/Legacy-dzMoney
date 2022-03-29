@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="E:/Server - 副本/Main/spigot-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/Vault1.6.10.jar"/>
+	<classpathentry kind="lib" path="D:/Downloads/SQLibrary-7.1.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>

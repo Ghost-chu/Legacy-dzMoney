@@ -1,0 +1,18 @@
+version: 1
+mysql:
+  port: 3306
+  user: root
+  password: root
+  database: minecraft
+  host: localhost
+  credit: extcredits2
+  members_table: pre_ucenter_members
+  members_count_table: pre_common_member_count
+  uid_table: uid
+  username_table: username
+msg:
+  forumName: 论坛
+  coinName: 金钱
+control:
+  boost: 2
+  #x2

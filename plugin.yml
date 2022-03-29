@@ -1,0 +1,16 @@
+name: dzMoney
+main: com.mcsunnyside.dzmoney.Main
+depend: [SQLibrary,Vault]
+author: john180
+version: 1.0
+commands:
+  dzm:
+    usage: /dzm
+    description: 导入论坛金钱
+permissions:
+  dzMoney.use:
+    description: 使用/dzm指令权限
+    default: op
+  dzMoney.reload:
+    description: 重载插件权限
+    default: op
